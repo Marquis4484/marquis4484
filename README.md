@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hello 👋, my name is Marquis Sampson</h1>
-<h3 align="center">I am a passionate software developer from New York City. Thank you for visiting my page.</h3>
+<h3 align="center">I am a passionate software developer from New York City. Thank you for visiting my page!</h3>
 
 - 👨‍💻 All of my projects are available at [ms-web-portfolio.com](ms-web-portfolio.com)
 
