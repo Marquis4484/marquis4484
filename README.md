@@ -3,10 +3,12 @@
 <p align="left">
   As a software engineer, I have experience in both frontend and backend programming. Also, I know how work with popular technologies such as Firebase and Figma. My aim as a software developer is to create complex programs that can be used by anyone. I am working towards my goals by building proficient web projects that are featured here on my github. Please, take a look and see what I have to offer. If you'd like to chat, my socials are listed down below. I hope that we can stay in touch!
 </p>
--  My web portfolio is viewable at: https://www.ms-web-portfolio.com/
+
+- My web portfolio is viewable at: https://www.ms-web-portfolio.com/
 
 - Here is my email address: **marquis4484@gmail.com**
 
+- This is my LinkedIn Page: https://www.linkedin.com/in/marquis-sampson/
 
 
 
