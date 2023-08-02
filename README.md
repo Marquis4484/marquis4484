@@ -7,7 +7,6 @@
 - My web portfolio is viewable at: https://www.ms-web-portfolio.com/
 
 - Here is my email address: **marquis4484@gmail.com**
-
 - This is my LinkedIn Page: https://www.linkedin.com/in/marquis-sampson/
 
 
