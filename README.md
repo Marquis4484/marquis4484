@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is Marquis Sampson!</h1>
-<h3 align="center">I am a passionate software developer from New York City. Thank you for visiting my page!</h3>
+<h3 align="center">I am a passionate software developer from New York City. Than you for visiting my page!</h3>
 <p align="left">
   As a software engineer, I have experience in both frontend and backend programming. Also, I know how work with popular technologies such as Firebase and Figma. My aim as a software developer is to create complex programs that can be used by anyone. I am working towards my goals by building proficient web projects that are featured here on my github. Please, take a look at the skills that I have to offer. If you'd like to chat, my socials are listed down below. I hope that we can stay in touch!
 </p>
