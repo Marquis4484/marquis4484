@@ -1,7 +1,7 @@
 <h1 align="center">Hello, my name is Marquis Sampson!</h1>
 <h3 align="center">I am a passionate software engineer from New York City. Thank you for visiting my page!</h3>
 <p align="left">
-  As a software engineer, I hav experience in both front end and back end programming. Also, I know how to work with popular databases such as Firbase and well known interface design software such as Figma. My aim as a software developer is to create complex programs that can be used by anyone. I'd also like to work with a team where my ideas and contributions are taken into consideration. I am working towards my goals by building proficient web projects everyday. that are featured right here on my github. Please, take a look at the skills that I have to offer. If you'd like to chat, my socials are listed down below. I hope that we can stay in touch!
+  As a software engineer, I have experience in both front end and back end programming. Also, I know how to work with popular databases such as Firbase and well known interface design software such as Figma. My aim as a software developer is to create complex programs that can be used by anyone. I'd also like to work with a team where my ideas and contributions are taken into consideration. I am working towards my goals by building proficient web projects everyday. that are featured right here on my github. Please, take a look at the skills that I have to offer. If you'd like to chat, my socials are listed down below. I hope that we can stay in touch!
 </p>
 
 - My web portfolio is viewable at: https://www.ms-web-portfolio.com/
