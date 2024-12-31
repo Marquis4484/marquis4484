@@ -4,10 +4,10 @@
  As a software engineer, I have experience in both front-end and back-end programming. Also, I know how to work with popular databases such as Firebase and well-known interface design software such as Figma. My goal as a software developer is to create complex programs that can be used by anyone. I'd also like to work with a team where my ideas and contributions are taken into consideration. I am working towards my goals by building proficient web projects every day that are featured here on my Github. Please, take a look at the skills that I have to offer. If you'd like to chat, my socials are listed below. Let’s stay in touch! 
 </p>
 
-- My web portfolio is viewable at: https://www.ms-web-portfolio.com/
+- Web Portfolio: marquiswebportfolio.com   
 
-- Here is my email address: **marquis4484@gmail.com**
-- This is my LinkedIn Page: https://www.linkedin.com/in/marquis-sampson/
+- Email Address: **marquis4484@gmail.com**
+- LinkedIn Page: https://www.linkedin.com/in/marquis-sampson/
 
 
 
