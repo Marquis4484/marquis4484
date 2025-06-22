@@ -5,7 +5,6 @@
 </p>
 
 - Web Portfolio: https://www.marquiswebportfolio.com
-
 - Email Address: **marquis4484@gmail.com**
 - LinkedIn Page: https://www.linkedin.com/in/marquis-sampson/
 
