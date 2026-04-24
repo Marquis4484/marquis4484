@@ -9,7 +9,7 @@
 - LinkedIn Page: **https://www.linkedin.com/in/marquis-sampson/**
 
 <h3 align="left">Languages and Tools:</h3>
-
+ 
 <table>
   <tr>
     <td align="center" valign="middle">
